@@ -22,7 +22,6 @@ body {
   display: flex;
   gap: 16px;
   align-items: center;
-  border: 1px solid red;
 }
 ul{
   margin: 0;

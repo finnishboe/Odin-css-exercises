@@ -4,6 +4,7 @@
   display:flex;
   justify-content: space-between;
   align-items: center;
+  padding: 8px;
 }
 
 
@@ -13,7 +14,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: 10px;
 }
 
 ul {
@@ -22,7 +22,7 @@ ul {
   margin: 0;
   padding: 0;
   display: flex;
-  gap: 20px;
+  gap: 8px;
 }
 
 a {
